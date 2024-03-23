@@ -7,5 +7,3 @@ cd server && npm init
 cd client && npm init
 
 # You have create with backend and login logics in react
-
-# Some thing changed on local only
